@@ -50,7 +50,7 @@ export const _mails = () =>
     };
 
     const to = [
-      { name: 'Jaydon Frankie', email: 'demo@minimals.cc', avatarUrl: null },
+      { name: 'Jaydon Frankie', email: 'demo@weighpoint.debeer.io', avatarUrl: null },
       { name: _mock.fullName(12), email: _mock.email(12), avatarUrl: _mock.image.avatar(12) },
     ];
 

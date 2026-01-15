@@ -24,8 +24,8 @@ export const _users = [
     about: 'Praesent turpis. Phasellus viverra nulla ut metus varius laoreet. Phasellus tempus.',
     role: 'admin' as UserRole,
     isPublic: true,
-    email: 'demo@minimals.cc',
-    password: '@2Minimal',
+    email: 'demo@weighpoint.debeer.io',
+    password: '123qwe',
   },
   {
     id: '8864c717-587d-472a-929a-8e5f298024da-1',

@@ -29,7 +29,7 @@ export const _conversations = () => {
     role: 'admin',
     status: 'online',
     name: 'Jaydon Frankie',
-    email: 'demo@minimals.cc',
+    email: 'demo@weighpoint.debeer.io',
     phoneNumber: '+40 777666555',
     address: '90210 Broadway Blvd',
     avatarUrl: _mock.image.avatar(24),
